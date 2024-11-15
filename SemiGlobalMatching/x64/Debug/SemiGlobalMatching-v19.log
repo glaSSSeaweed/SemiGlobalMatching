@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  main.cpp
+D:\code\SemiGlobalMatching\SemiGlobalMatching\sgm_types.h(1,1): warning C4828: The file contains a character starting at offset 0x347 that is illegal in the current source character set (codepage 936).
+D:\code\SemiGlobalMatching\SemiGlobalMatching\main.cpp(83,39): warning C4305: '=': truncation from 'double' to 'float32'
+D:\code\SemiGlobalMatching\SemiGlobalMatching\main.cpp(129,20): warning C4244: 'initializing': conversion from 'const sint32' to 'float', possible loss of data
+D:\code\SemiGlobalMatching\SemiGlobalMatching\main.cpp(129,38): warning C4244: 'initializing': conversion from 'sint32' to 'float', possible loss of data
+  SemiGlobalMatching.cpp
+D:\code\SemiGlobalMatching\SemiGlobalMatching\sgm_types.h(1,1): warning C4828: The file contains a character starting at offset 0x347 that is illegal in the current source character set (codepage 936).
+D:\code\SemiGlobalMatching\SemiGlobalMatching\SemiGlobalMatching.cpp(537,41): warning C4244: 'initializing': conversion from 'double' to 'sint32', possible loss of data
+D:\code\SemiGlobalMatching\SemiGlobalMatching\SemiGlobalMatching.cpp(537,36): warning C4244: 'initializing': conversion from 'double' to 'const sint32', possible loss of data
+  sgm_util.cpp
+D:\code\SemiGlobalMatching\SemiGlobalMatching\sgm_types.h(1,1): warning C4828: The file contains a character starting at offset 0x347 that is illegal in the current source character set (codepage 936).
+D:\code\SemiGlobalMatching\SemiGlobalMatching\sgm_util.cpp(567,22): warning C4267: '=': conversion from 'size_t' to 'uint32', possible loss of data
+  Generating Code...
+  SemiGlobalMatching-v19.vcxproj -> D:\code\SemiGlobalMatching\x64\Debug\SemiGlobalMatching-v19.exe
